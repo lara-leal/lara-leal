@@ -3,6 +3,10 @@
 <img align='right' src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="230">My name is **Lara Leal**, 20 years old.<br>I'm on my first degree in Database at Fatec São José dos Campos.
 
 📍 <b> São José dos Campos - São Paulo.
+  
+ ## If you want, check it out my college projects that I'm envolved. 
+  <img src="https://media.discordapp.net/attachments/913534866686103573/913534989616955434/phantom.png" width="30"/> [  ](https://github.com/PhatomFatec/PI_Necto_Systems)
+   <img src="https://media.discordapp.net/attachments/913534866686103573/913534989881212928/silvercode.png" width="30"/>[  ](https://github.com/silvercod3/Athena)
 
 
 
