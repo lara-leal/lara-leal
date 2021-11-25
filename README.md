@@ -5,8 +5,10 @@
 📍 <b> São José dos Campos - São Paulo.
   
  ## If you want, check it out my college projects that I'm envolved. 
-  <img src="https://media.discordapp.net/attachments/913534866686103573/913534989616955434/phantom.png" width="30"/> [  ](https://github.com/PhatomFatec/PI_Necto_Systems)
-   <img src="https://media.discordapp.net/attachments/913534866686103573/913534989881212928/silvercode.png" width="30"/>[  ](https://github.com/silvercod3/Athena)
+  [![Phantom](https://media.discordapp.net/attachments/913534866686103573/913534989616955434/phantom.png)](https://github.com/PhatomFatec/PI_Necto_Systems)
+ [![Silvercode](https://media.discordapp.net/attachments/913534866686103573/913534989881212928/silvercode.png)](https://github.com/silvercod3/Athena)
+  
+
 
 
 
