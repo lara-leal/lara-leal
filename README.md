@@ -1,31 +1,34 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi, everyone! </h1>
 
-<img align='right' src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="230">My name is **Lara Leal**, 21 years old.<br>I'm on my first degree in Database at Fatec São José dos Campos.    
-Currently working as Junior Support Analyst at ITA Ventures.
+<img align='right' src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="230">My name is **Lara Leal**, 22 years old.<br>I'm on my first degree in Database at Fatec São José dos Campos.    
+Currently working as Junior Systems Analyst at ITA Ventures.
 
 📍 <b> São José dos Campos - São Paulo.
+ <br> 
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
   
  ## If you want, check it out my college projects that I'm envolved. 
-  [![Phantom](https://media.discordapp.net/attachments/913534866686103573/913534989616955434/phantom.png)](https://github.com/PhatomFatec/PI_Necto_Systems)
- [![Silvercode](https://media.discordapp.net/attachments/913534866686103573/913534989881212928/silvercode.png)](https://github.com/silvercod3/Athena)
-  
+ [Athena](https://github.com/silvercod3/Athena) <br>
+ [SGBD Monitoring](https://github.com/PhatomFatec/PI_Necto_Systems) <br>
+ [Subiter Call](https://github.com/PhatomFatec/API_SUBITER) <br>
+ [E-commerce rules engine](https://github.com/PhatomFatec/PI_3Semestre) <br>
+ [DataTransfer](https://github.com/PhatomFatec/Midall-DataTransfer) 
 
 
+## Skills :rocket:
 
+![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
 
-
-
-
-
-
-
-
-
-## My language skills :rocket:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ##    **Reach me here:**  
 
