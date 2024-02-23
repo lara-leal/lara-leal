@@ -10,24 +10,7 @@ Currently working as Trainee Developer at Touch Health.
   <br>
   <br>
   <br>
-  
-  
- ## If you want, check it out my college projects that I'm envolved. 
- [Athena](https://github.com/silvercod3/Athena) <br>
- [SGBD Monitoring](https://github.com/PhatomFatec/PI_Necto_Systems) <br>
- [Subiter Call](https://github.com/PhatomFatec/API_SUBITER) <br>
- [E-commerce rules engine](https://github.com/PhatomFatec/PI_3Semestre) <br>
- [DataTransfer](https://github.com/PhatomFatec/Midall-DataTransfer) 
-
-
-## Skills :rocket:
-
-![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
+ 
 
 
 ##    **Reach me here:**  
