@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi, everyone! </h1>
 
-<img align='right' src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="230">My name is **Lara Leal**, 22 years old.<br>I'm on my first degree in Database at Fatec São José dos Campos.    
+<img align='right' src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="230">My name is **Lara Leal**, 22 years old.<br>I'm graduated in Database at Fatec São José dos Campos.    
 Currently working as Trainee Developer at Touch Health.
 
 📍 <b> São José dos Campos - São Paulo.
